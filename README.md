@@ -7,4 +7,30 @@ After entering, it is player number 2's turn, and they play in turn until a winn
 Connect 3 cells in a row vertically or horizontally or diagonally to win.
 
 
-## aaa
+## About The Project
+This is a project I did in C programming language in my freshman year when I was studying advanced programming.
+
+
+## Built With
+- **C**
+
+
+## Prerequisites
+You will need a C compiler to compile this project, you can get ```GCC```.
+
+
+## Installation
+1. Clone the repo
+```sh
+git clone https://github.com/baminq/laptrinhcaocap.git
+```
+
+2. Compile the files
+```sh
+gcc -o TICTACTOE TICTACTOE.c
+```
+
+3. Run game
+```sh
+./TICTACTOE
+```
